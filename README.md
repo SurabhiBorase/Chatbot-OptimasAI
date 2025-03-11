@@ -8,6 +8,8 @@ This project is a web-based chatbot designed to provide instant AI-powered respo
 
 The chatbot is embedded in the Optimas AI webpage as a floating chat button, allowing users to interact seamlessly.
 
+
+
 ⚙️ Features
 
 ✅ Conversational Memory – Remembers user interactions within a session.
@@ -21,6 +23,8 @@ The chatbot is embedded in the Optimas AI webpage as a floating chat button, all
 ✅ Optimized API Calls – Uses LangChain for efficient query handling.
 
 ✅ Error Handling – Manages API failures & user input validation.
+
+
 
 🛠️ Tech Stack
 
