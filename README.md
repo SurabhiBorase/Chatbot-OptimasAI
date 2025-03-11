@@ -7,6 +7,7 @@ This project is a web-based chatbot designed to provide instant AI-powered respo
 The chatbot is embedded in the Optimas AI webpage as a floating chat button, allowing users to interact seamlessly.
 
 ⚙️ Features
+
 ✅ Conversational Memory – Remembers user interactions within a session.
 ✅ LLM-based Chatbot – Powered by GPT-4o Mini for accurate responses.
 ✅ User-Friendly UI – Chat messages are well-structured & visually appealing.
