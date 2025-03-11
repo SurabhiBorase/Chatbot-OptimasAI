@@ -1,0 +1,8 @@
+pip install flask langchain openai
+pip install --upgrade langchain langchain_community openai
+pip install --upgrade langchain langchain_openai openai
+
+pip install gunicorn
+pip install waitress
+
+
